@@ -1,8 +1,17 @@
-Examples of 3D viewers in React
+# React GLB Viewer Example
 
--   React Three Fiber
--   Model Viewer
--   React Babylon (coming soon)
+Example of loading a .glb into react
 
-`npm install`
-`npm start`
+## Instructions
+
+Run the commands
+
+### `npm install`
+
+### `npm start`
+
+## Todo:
+
+-   [x] <model-viewer> component
+-   [x] React Three Fiber component
+-   [ ] React Babylon component
