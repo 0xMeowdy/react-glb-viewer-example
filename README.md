@@ -12,6 +12,6 @@ Run the commands
 
 ## Todo:
 
--   [x] <model-viewer> component
+-   [x] Model Viewer component
 -   [x] React Three Fiber component
 -   [ ] React Babylon component
